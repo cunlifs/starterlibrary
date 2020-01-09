@@ -14,7 +14,7 @@ variable "datacenter" {
 
 variable "first_hostname" {
   description = "Hostname of the first virtual instance (small flavor) to be deployed"
-  default     = "debian-small"
+  default     = "debian-smallish"
 }
 
 variable "second_hostname" {
