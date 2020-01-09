@@ -184,7 +184,7 @@
         "group": "virtualmachine"
     },
     {
-        "default": "sample.com",
+        "default": "labs.co.uk",
         "description": "Domain of the virtual instance to be deployed",
         "hidden": false,
         "immutable": false,
